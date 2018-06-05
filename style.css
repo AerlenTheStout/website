@@ -1,11 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-}
+{background-image: url ("code-670x335.jpg");
 
-header {
-  background-image: url(codeanywhere-edited.jpg)
-    height: 100vh;
-    background-size: cover;
-  background-position: center;
 }
